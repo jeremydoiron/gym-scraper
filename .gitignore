@@ -1,5 +1,4 @@
-/.vscode
-/venv
+.vscode/
+venv/
 .env
 gym_data.csv
-.env
